@@ -77,5 +77,5 @@ We welcome developers, researchers, builders, and contributors.
 ---
 
 <p align="center">
-  <strong>Autonomous Agent Finance Infrastructure on Stellar 🌸</strong>
+  <strong>Autonomous Agent Finance Infrastructure on Stellar </strong>
 </p>
