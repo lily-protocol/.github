@@ -71,8 +71,8 @@ We welcome developers, researchers, builders, and contributors.
 
 ## 💬 Community
 
-- X/Twitter → https://x.com/lilyprotocol
-- Telegram → https://t.me/lilyprotocol
+- X/Twitter → https://x.com/lilyprotocol_
+- Telegram → https://t.me/lily_protocol
 
 ---
 
